@@ -7,15 +7,16 @@ h1{
     padding-left: 15px;
 }
 .green-color{
-    color: greenyellow;
+    color: rgb(137, 161, 103);
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 10px;
+    margin: 0;
+    padding: 0;
 }
 .half-width{
     width: 50%;
-    padding: 10%;
+    padding: 7%;
 }
 .half-width img{
     width: 80%;
@@ -39,6 +40,7 @@ h1{
 .my-mission{
     text-align: center;
     align-items: center;
+     margin-bottom: 10px;
 }
 .missions{
     width: 20%;
@@ -58,6 +60,45 @@ h1{
     background-color:rgb(178, 194, 159);
 }
 .missions img{
+    width: 80%;
+    height: auto;
+}
+
+/* develop-section */
+
+/* #develop{
+    
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    
+} */
+
+/* extra part */
+
+.newyear-resolution{
+    text-align: center;
+    align-items: center;
+     margin-bottom: 10px;
+}
+.extra{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5%;
+    padding: 2%;
+    
+}
+#extra-1{
+    background-color:rgb(214, 191, 205);
+}
+#extra-2{
+    background-color:rgb(117, 98, 98);
+}
+#extra-3{
+    background-color:rgb(112, 119, 103);
+}
+.extra img{
     width: 80%;
     height: auto;
 }
