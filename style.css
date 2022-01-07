@@ -73,6 +73,14 @@ h1{
     background-position: top left;
     
 } */
+.develop{
+    margin-bottom: 10px;
+}
+
+/* .global{
+
+} */
+
 
 /* extra part */
 
@@ -85,6 +93,7 @@ h1{
     width: 20%;
     margin-left: 5%;
     margin-right: 5%;
+    margin-bottom: 10%;
     border-radius: 5%;
     padding: 2%;
     
@@ -101,4 +110,22 @@ h1{
 .extra img{
     width: 80%;
     height: auto;
+}
+
+/* footeeerrr */
+footer h2,p{
+     text-align: center;
+}
+.black{
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    color: rgb(77, 79, 185);
+}
+.red{
+    color: rgb(136, 12, 12);
+}
+.white{
+    color: seashell;
 }
